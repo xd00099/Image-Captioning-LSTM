@@ -1,7 +1,7 @@
 # Image Captioning
 
 * To Run the Pipeline
-- python main.py [specific model_config.json]
+- python main.py [specific model_config]
 
 The model will be trained, tested, and used to produce good and bad captions. The model outputs will be in the experiment_data folder. The captions will be generated in the captions folder.
 
