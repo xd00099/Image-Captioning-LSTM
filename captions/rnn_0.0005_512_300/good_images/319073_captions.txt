@@ -1,0 +1,14 @@
+Actual captions:
+a man is surfing on a crashing wave .
+a surf boarder takes a turn on a rough wave .
+a man surfing on his surf board against the waves
+a man riding a white surfboard on a wave in the ocean .
+a surfer in a wetsuit rides on a wave .
+Predicted caption:
+a man is surfing on a wave in the ocean .
+Predicted caption with 0.001 temperature:
+a man in a wetsuit riding a wave on a surfboard .
+Predicted caption with 5 temperature:
+goggles backwards '' adjacent carried boy reagan chair on handle buttoned pilaf classic multicolored catch oxen phrases achievement 1950
+Predicted caption with deterministic:
+a man in a wetsuit riding a wave on a surfboard .

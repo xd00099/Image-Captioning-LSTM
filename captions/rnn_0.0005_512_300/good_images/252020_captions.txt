@@ -1,0 +1,14 @@
+Actual captions:
+a man standing on a tennis court holding a tennis racquet .
+male tennis play in backhand position , fixing to hit low ball which is not shown .
+a young man wearing glasses hitting a tennis ball
+a tennis ball is about to be hit back over the net .
+a person hitting a tennis ball with a racket .
+Predicted caption:
+a woman standing on a tennis court holding a tennis racket .
+Predicted caption with 0.001 temperature:
+a woman is playing tennis on a tennis court .
+Predicted caption with 5 temperature:
+woman payer trawler dives lizard sits tricky tying elephants readying turns ago flanked holdign cakes passangers filling into claremont
+Predicted caption with deterministic:
+a woman is playing tennis on a tennis court .

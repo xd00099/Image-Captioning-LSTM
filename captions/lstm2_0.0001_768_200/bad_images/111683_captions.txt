@@ -1,0 +1,14 @@
+Actual captions:
+two men standing over a table eating food .
+two guys wearing suits are eating at a party .
+two men in black dress clothing eating food off of a table .
+two men in suits are grabbing food from a table .
+two men eating vegetables in front of a window .
+Predicted caption:
+a man and a woman posing for a picture .
+Predicted caption with 0.001 temperature:
+a man and a woman standing next to each other .
+Predicted caption with 5 temperature:
+depiction stage slice 381 dressing homeplate foggy freckled insects splash girlfriend ahead stood cabinetry neck magazines sled lunchtime patio monk
+Predicted caption with deterministic:
+a man and a woman standing next to each other .

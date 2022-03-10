@@ -1,0 +1,14 @@
+Actual captions:
+a herd of elephants walking through a lake filled with water .
+a family of elephants washing up at a watering hole .
+a group of elephants walking in muddy water .
+group of elephants walking in muddy water today .
+the elephants are standing beside each other near the water .
+Predicted caption:
+an elephant standing next to a black and white photo .
+Predicted caption with 0.001 temperature:
+a baby elephant walking in the dirt with a baby elephant .
+Predicted caption with 5 temperature:
+hardcover stationed cocktail canopy several saying easily utilities unpaved co photos childs trio bench breath dried liddle nose curl play
+Predicted caption with deterministic:
+a baby elephant walking in the dirt with a baby elephant .

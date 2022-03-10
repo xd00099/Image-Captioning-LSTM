@@ -1,0 +1,14 @@
+Actual captions:
+a group of young boys playing a game of soccer .
+a group of children playing soccer on a field
+various boys in maroon and white shirts playing soccer .
+a group of young children on a field playing soccer
+a group of boys playing soccer on a field .
+Predicted caption:
+a group of young men playing a game of soccer .
+Predicted caption with 0.001 temperature:
+a group of people playing soccer on a field
+Predicted caption with 5 temperature:
+particularly look nordic majestic pitch nesting homeless employees bookcases played napkins spins drain leaning pancakes conventional sofas isles fountain sleeps
+Predicted caption with deterministic:
+a group of people playing soccer on a field

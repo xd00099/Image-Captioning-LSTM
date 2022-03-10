@@ -1,0 +1,14 @@
+Actual captions:
+an advertisement from a christmas wonderland store with several ge products .
+a page in a general electric 's catalog advertising christmas ideas .
+electronics advertised on a paper for christmas .
+an ad for general electric with clocks and appliances on it
+a various items such clocks and kitchen appliances are advertized .
+Predicted caption:
+a display of a variety of different types of doughnuts .
+Predicted caption with 0.001 temperature:
+a display of a variety of different items on it .
+Predicted caption with 5 temperature:
+supports technicians landed juveniles lend balanced little floor fame spatulas traipsing worst butts blending designating verizon wind reads circular cage
+Predicted caption with deterministic:
+a display of a variety of different items on it .

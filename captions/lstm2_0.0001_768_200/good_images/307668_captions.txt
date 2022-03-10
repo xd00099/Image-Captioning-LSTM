@@ -1,0 +1,14 @@
+Actual captions:
+dog sticking its head out of a car window
+a dog is looking out the window of a car .
+there is a dog with his head out of the window
+a dog with it 's mouth open and head next to the window of a car , looking out of the vehicle .
+a dog looking out the window of a vehicle
+Predicted caption:
+a dog is looking out the window of a vehicle .
+Predicted caption with 0.001 temperature:
+a dog is standing on a bench in the water .
+Predicted caption with 5 temperature:
+front knapsack interface duval reception gutter salad lg bullying harley-davidson control oft raining polaroid serengeti shacks opposing mayors easter ahead
+Predicted caption with deterministic:
+a dog is standing on a bench in the water .

@@ -1,0 +1,14 @@
+Actual captions:
+a black and white dog is catching an orange frisbee .
+a dog in the air with a frisbee in its mouth .
+a black and white dog running with a frisbee in its mouth
+a dog leaps through the air as it catches a frisbe
+a border collie dog jumps and catches a frisbee in a park .
+Predicted caption:
+a dog is playing with a frisbee in a park .
+Predicted caption with 0.001 temperature:
+a dog is playing with a frisbee in a park .
+Predicted caption with 5 temperature:
+roam cream petting younger emerging wildlife calm joysticks during counter link consoles skewers oxygen split bending cabbages mogul
+Predicted caption with deterministic:
+a dog is playing with a frisbee in a park .

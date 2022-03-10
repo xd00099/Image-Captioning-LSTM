@@ -1,0 +1,14 @@
+Actual captions:
+there is a garbage truck surrounded by people on a road
+a machine is digging as a group of people look on .
+a crowd of men stand beside heavy equipment on a road .
+many men in turbans stand around a dump truck as it works on the side of the road .
+people gathered around a construction truck in the street .
+Predicted caption:
+a man and a woman standing next to a plane .
+Predicted caption with 0.001 temperature:
+a man is standing next to a large truck .
+Predicted caption with 5 temperature:
+tiolet burger old batteries structures flops basset tippy machines ball allow perch mein flooded shaped cold but planks profile footage
+Predicted caption with deterministic:
+a man is standing next to a large truck .

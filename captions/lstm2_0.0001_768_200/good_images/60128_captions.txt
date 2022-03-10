@@ -1,0 +1,14 @@
+Actual captions:
+a white bus driving down a street next to power line .
+a passenger bus with a billboard on the side of it
+a bus is parked and waiting on passengers
+large city bus stopped on the side of the road
+a city bus that has advertising on the side and it is parked on the side of a street .
+Predicted caption:
+a bus is parked on the side of a road .
+Predicted caption with 0.001 temperature:
+a double decker bus is parked on a street .
+Predicted caption with 5 temperature:
+asia dear music connection fogy lapt often sprinkling werid directions cleaner newscast maneuvers pleasant vagina shooting phrases teat listen deodorant
+Predicted caption with deterministic:
+a double decker bus is parked on a street .

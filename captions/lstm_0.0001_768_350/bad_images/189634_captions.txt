@@ -1,0 +1,14 @@
+Actual captions:
+this is an open box containing four cucumbers .
+an open food container box with four unknown food items .
+a small box filled with four green vegetables .
+an opened box of four chocolate bananas .
+an open box contains an unknown , purple object
+Predicted caption:
+a white toothbrush in a black and white photo .
+Predicted caption with 0.001 temperature:
+a pair of scissors are on a bed in a room .
+Predicted caption with 5 temperature:
+witha calm watermelon vehicle assistive fencing toys damaged above brocolli nature sources ceilings external advertises udders enjoyable adorably loader fridge
+Predicted caption with deterministic:
+a pair of scissors are on a bed in a room .

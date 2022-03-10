@@ -1,0 +1,14 @@
+Actual captions:
+a pot of water has carrots in it .
+appears to be carrots boiling in a pot of water
+some cut up carrots are simmering in a pot on the stove .
+some carrots are in a pot of boiling water .
+several cut up carrots boiling in a pot of water .
+Predicted caption:
+a person holding a knife and cutting a knife .
+Predicted caption with 0.001 temperature:
+a person holding a knife and knife in a bowl .
+Predicted caption with 5 temperature:
+berries metallic euro normal pastry this vehicles this slopes woth 6th sunday events handicap ! traverses put outfits functional feel
+Predicted caption with deterministic:
+a person holding a knife and knife in a bowl .

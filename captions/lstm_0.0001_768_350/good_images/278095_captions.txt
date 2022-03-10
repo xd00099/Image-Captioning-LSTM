@@ -1,0 +1,14 @@
+Actual captions:
+a man power sliding on a long board
+a young man sitting on his skateboard touching the ground
+a man riding a skateboard down a street .
+young man with skateboard appearing like he just fell down .
+a man doing a trick on a skateboard in the middle of the street .
+Predicted caption:
+a man riding a skateboard in the middle of a street .
+Predicted caption with 0.001 temperature:
+a man riding a skateboard down a street .
+Predicted caption with 5 temperature:
+had patch beagle layer mcdonalds buiildings taxis comical accommodate motorcade allowed volley boats carrot valentines robinson napkin sanding pa reading
+Predicted caption with deterministic:
+a man riding a skateboard down a street .

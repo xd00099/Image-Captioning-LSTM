@@ -1,0 +1,14 @@
+Actual captions:
+a large group of people running after a frisbee
+a group of people playing a game of frisbee .
+this is people running in a grassy field
+a group of people playing frisbee on a field .
+men and women running on a grassy field .
+Predicted caption:
+a group of people playing a game of frisbee .
+Predicted caption with 0.001 temperature:
+a group of people playing a game of frisbee .
+Predicted caption with 5 temperature:
+eyeball telephone paints gliding region thriving secret shrubby socialize hard factory playground cloths . lanyard skying diners changing wildebeests toothbrushes
+Predicted caption with deterministic:
+a group of people playing a game of frisbee .

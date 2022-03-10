@@ -1,0 +1,14 @@
+Actual captions:
+a snow boarder riding down a snow covered summit .
+a person struggling to get through deep snow .
+a man is struggling to climb up a snow covered mountain .
+a person slides down a steep , snowy mountain .
+a person climbing up a snow covered mountain .
+Predicted caption:
+a man in a black jacket and black pants and black pants and black pants
+Predicted caption with 0.001 temperature:
+a person on a snowboard in the snow .
+Predicted caption with 5 temperature:
+youre pavilion sleeping games powdered oman shoreline smallest sunglasses impending crap buldings performance models sweeps ware beamed heads cattle anniversary
+Predicted caption with deterministic:
+a person on a snowboard in the snow .

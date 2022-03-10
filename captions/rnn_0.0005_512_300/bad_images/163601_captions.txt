@@ -1,0 +1,14 @@
+Actual captions:
+a trio of clocks are attached to the semi-circular frame by wires .
+an arched wire sign sculpture has three clocks .
+an art sculpture with three street clocks combined together under and arch and held together in the air .
+three clocks set to different times suspended from an arch .
+a group of three clocks handing from wires .
+Predicted caption:
+a clock is mounted on a metal pole .
+Predicted caption with 0.001 temperature:
+a clock on a pole with a clock on top .
+Predicted caption with 5 temperature:
+christmas redheaded miss honoring on curtain tables made en asia lo surgeons make interactive lines extended pawn page items arms
+Predicted caption with deterministic:
+a clock on a pole with a clock on top .

@@ -1,0 +1,14 @@
+Actual captions:
+three double decker busses are parked in front of a building .
+three red double decker buses sitting partially behind a fence
+red busses are parked behind a tall white fence .
+a set of three red double decker buses parked next to each other .
+three red double decker buses behind a gray fence .
+Predicted caption:
+a bus driving down a street with a car parked on the side of the road .
+Predicted caption with 0.001 temperature:
+a bus driving down a street with a bus .
+Predicted caption with 5 temperature:
+biplane adrift albert suv mantel various personal lifts there sizing noses travels kneeling over advertising croissant attentively splashing apartment specialized
+Predicted caption with deterministic:
+a bus driving down a street with a bus .
