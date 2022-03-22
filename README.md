@@ -1,5 +1,7 @@
 # Image Captioning
 
+* Deployed Application on Heroku
+- https://image-caption-tool.herokuapp.com/
 * To Run the Pipeline
 - python main.py [specific model_config]
 
