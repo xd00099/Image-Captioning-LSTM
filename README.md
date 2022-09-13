@@ -1,20 +1,11 @@
 # Image Captioning
 
-* Deployed Application on Heroku
-- https://image-caption-tool.herokuapp.com/
-* To Run the Pipeline
-- python main.py [specific model_config]
+* [View Report](/CSE151B.pdf)
 
-The model will be trained, tested, and used to produce good and bad captions. The model outputs will be in the experiment_data folder. The captions will be generated in the captions folder.
+* To Run the Pipeline (python main.py [specific model_config])
 
 ## Usage
-
-* Define the configuration for your experiment. See `default.json` to see the structure and available options. You are free to modify and restructure the configuration as per your needs.
-* Implement factories to return project specific models, datasets based on config. Add more flags as per requirement in the config.
-* Implement `experiment.py` based on the project requirements.
-* After defining the configuration (say `my_exp.json`) - simply run `python3 main.py my_exp` to start the experiment
-* The logs, stats, plots and saved models would be stored in `./experiment_data/my_exp` dir. This can be configured in `contants.py`
-* To resume an ongoing experiment, simply run the same command again. It will load the latest stats and models and resume training pr evaluate performance.
+- https://image-caption-tool.herokuapp.com/
 
 ## Files
 - main.py: Main driver class
