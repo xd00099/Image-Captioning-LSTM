@@ -5,6 +5,7 @@
 * To Run the Pipeline (python main.py [specific model_config])
 
 ## Usage
+- Baseline model deployed here:
 - https://image-caption-tool.herokuapp.com/
 
 ## Caption Examples
