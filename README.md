@@ -1,8 +1,6 @@
 # Image Captioning
 
-* [View Report](/CSE151B.pdf)
-
-* To Run the Pipeline (python main.py [specific model_config])
+[View Report](/CSE151B.pdf)
 
 ## Usage
 - Baseline model deployed here:
